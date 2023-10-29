@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768714719879",
+    "project_id": "appton-71916",
+    "storage_bucket": "appton-71916.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768714719879:android:a436e68ff0f885c4aeee22",
+        "android_client_info": {
+          "package_name": "com.example.appathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa7Gk0qAO-m0dh1Y7WbJcWXjukUxW-N08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
